@@ -1,5 +1,9 @@
 # calculater-mobile
-> Aplicação móvel utilizando a biblioteca React do javascript. 
+> Aplicação móvel para realizar operações matematicas. 
 
-- **Exercutar**
-  - _Utilizar emulador Android ou IOS_
+- **Tecnologias Utilizadas**
+  - **_React_**
+  - **_React Native_**
+  - **_Expo_**
+- **Motivação**
+  - Feito para a pratica do uso da linguagem javascript e de suas bibliotecas.
