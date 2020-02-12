@@ -10,3 +10,12 @@
   - **_Expo_**
 - **Motivação**
   - Feito para a pratica da linguagem javascript e da biblioteca react.js .
+- **Exercutar**
+  
+  > Utilizando o Expo.
+  
+  > Comandos dentro do diretório do projeto.
+  
+  - `$ sudo npm install -g expo-cli`
+  - `$ sudo npm i`
+  - `$ sudo npm start`
