@@ -1,9 +1,8 @@
 # calculater-mobile
 
-> Aplicação móvel para realizar operações matematicas.
-
 <img src="https://github.com/brufelix/calculater-mobile/blob/master/image-calculater/calculater.jpeg" width=200/>
 
+> Aplicação móvel para realizar operações matematicas.
 
 - **Tecnologias Utilizadas**
   - **_React_**
